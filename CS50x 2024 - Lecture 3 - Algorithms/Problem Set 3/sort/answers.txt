@@ -1,0 +1,50 @@
+sort1 uses:
+Bubble Sort
+
+How do you know?:
+Using the "time" command we can see that, in the best case,
+when the array is sorted, sort1 takes roughly the same time as
+sort2 to check if the array is sorted. This gives the impression
+that the sorting is "cancelled" as there were no swaps made
+while passing through the list for the first time.
+
+
+
+sort2 uses:
+Merge Sort
+
+How do you know?:
+Using the "time" command we can see that, in larger scale,
+    sort2 is the one that takes the least amount of time to sort the numbers.
+This is valid for the sorted, reversed and random arrays.
+
+
+
+sort3 uses:
+Selection Sort
+
+How do you know?:
+Using the "time" command we can see that, even in the best case,
+when the array is sorted, sort3 takes more than 2 seconds to "sort" the numbers
+while sort1 and sort2 take roughly the same time checking a sorted array of numbers.
+
+
+
+----------------------------
+
+
+
+Merge Sort -
+    Big O       ->  n log(n)
+    Big Omega   ->  n log(n)
+    Big Theta   ->  n log(n)
+
+Selection Sort -
+    Big O       ->  n^2
+    Big Omega   ->  n^2
+    Big Theta   ->  n^2
+
+Bubble Sort -
+    Big O       ->  n^2
+    Big Omega   ->  n
+    Big Theta   ->  n^2
