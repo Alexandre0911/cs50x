@@ -8,5 +8,7 @@ gcc example.c -o example -lcs50
 
 ### Linux
 make example
+
 *OR*
+
 clang example -o example.c -lcs50
