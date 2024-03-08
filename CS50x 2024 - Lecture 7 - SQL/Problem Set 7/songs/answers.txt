@@ -1,0 +1,12 @@
+We can see that the top 100 of this listener has an average valence below 0.5, which, [theoretically], means that the songs are more negative.
+We can also see that the average danceability of the same songs is above 0.5, which, [theoretically], means that the songs make the average listener want to dance to it.
+Finally, we see that the average energy of such songs is also above 0.5, which, again, [theoretically], means that the songs transmit big amounts of energy to the listener.
+
+From Spotify's perspective, this listener's song aura is:
+a mix of Blue - "Blues are wistful or emotional, and this hue reflects listeners who seek out music to feel their feelings out loud."
+and Purple - "This aura color pairs well with passionate music listeners. Purple auras tune in to get amped up, entertained, and moving while they navigate the twists and turns of their day."
+
+
+From this data only, we cannot suppose that the listener is depressed, happy, calm or anything.
+This data can only calculate what the AVERAGE listener choses to listen to this type of music.
+As it's an average, we cannot supposed that everyone who listens to this songs fits the AVERAGE.
